@@ -1,0 +1,9 @@
+---
+subtitle: hands-on teste pandoc
+header-left: Documento teste para aprendizagem sobre o pandoc
+date: V1.0.0 (MAR/2023)
+eletra-options-file: ../docs-template/general-pt-options.yaml
+eletra-out-pdf: '../out/"Doc teste pandoc".pdf'
+eletra-out-html: '../out/"Doc teste pandoc".html'
+eletra-files: [introducao.md, core.md, change-log.md]
+...
