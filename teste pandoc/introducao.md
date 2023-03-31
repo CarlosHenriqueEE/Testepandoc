@@ -6,4 +6,3 @@ O intuito deste documento é:
 - ter um documento base;
 
 > citação: Adriel disse que é assim!
-
